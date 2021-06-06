@@ -63,3 +63,6 @@ nowhere near enough employees to bridge the gap of the "silver tsunami" of retir
 employees based on years worked at the company (binned for every 5-10 years) to get an idea of where the general experience level is.
 Another useful table would be a table that showed the amount of employees retiring from each of the departments. This way the company
 would be able to tell where most of the mentorship needed to take place in.
+
+# References
+I worked on this assignment with @chkCreate. 
