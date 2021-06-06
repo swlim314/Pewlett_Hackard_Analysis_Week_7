@@ -8,9 +8,22 @@ department employees tables, as well as with the employees and the titles table.
 including current employees, and those that were born in the year 1965.
 ## Results of the Analysis
 ### Number of Retiring Employees
-- One major finding from the analysis on retiring employees was the large amount of retiring employees that were experienced/senior. There
-were more than double the amount of Senior Engineers (29,414) and Senior Staff (28,254) than Engineer (14,222) and Staff (12,243). This is
-shown in the image below.
+- One finding from the analysis on retiring employees was the varying amount of unique titles that the retiring employees had. Using
+the following code:
+
+**Unique Titles code**
+
+![Unique Titles code](https://github.com/swlim314/Pewlett_Hackard_Analysis_Week_7/blob/b73c3a1797bde5d62a056599ce68ea827794bb0c/Resources/Unique%20Titles%20code.png)
+I was able to match each of the employees with their unique title. This required making sure to match the employee number with their
+most senior ranking position on file. The output looked as follows:
+
+**Unique Titles**
+
+![Unique Titles](https://github.com/swlim314/Pewlett_Hackard_Analysis_Week_7/blob/b73c3a1797bde5d62a056599ce68ea827794bb0c/Resources/Unique%20Titles.png)
+
+- Another major finding from the analysis on retiring employees was the large amount of retiring employees that were experienced/senior
+personnel. There were more than double the amount of Senior Engineers (29,414) and Senior Staff (28,254) than Engineer (14,222) and Staff 
+(12,243). This is shown in the image below.
 
 **Retiring Titles**
 
@@ -21,4 +34,4 @@ The code required to show this output was:
 
 **Retiring Titles Code**
 
-![Retiring Titles Code](https://github.com/swlim314/Pewlett_Hackard_Analysis_Week_7/blob/9bb1c03934a338b3b915ad2609677e0b8ec1ca2a/Resources/Retiring%20Titles%20code.png)
+![Retiring Titles code](https://github.com/swlim314/Pewlett_Hackard_Analysis_Week_7/blob/9bb1c03934a338b3b915ad2609677e0b8ec1ca2a/Resources/Retiring%20Titles%20code.png)
