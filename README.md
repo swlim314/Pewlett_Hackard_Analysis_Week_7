@@ -13,10 +13,12 @@ were more than double the amount of Senior Engineers (29,414) and Senior Staff (
 shown in the image below.
 
 **Retiring Titles**
+
 ![Retiring Titles](https://github.com/swlim314/Pewlett_Hackard_Analysis_Week_7/blob/efad847ab81f98ed07a2730a00e078138b2bf113/Resources/Retiring%20Titles.jpg)
 
 
 The code required to show this output was:
 
 **Retiring Titles Code**
+
 ![Retiring Titles Code](https://github.com/swlim314/Pewlett_Hackard_Analysis_Week_7/blob/9bb1c03934a338b3b915ad2609677e0b8ec1ca2a/Resources/Retiring%20Titles%20code.png)
