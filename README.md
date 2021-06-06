@@ -9,11 +9,12 @@ including current employees, and those that were born in the year 1965.
 ## Results of the Analysis
 ### Number of Retiring Employees
 - One finding from the analysis on retiring employees was the varying amount of unique titles that the retiring employees had. Using
-the following code:
+the following query:
 
-**Unique Titles code**
+**Unique Titles Query**
 
-![Unique Titles code](https://github.com/swlim314/Pewlett_Hackard_Analysis_Week_7/blob/b73c3a1797bde5d62a056599ce68ea827794bb0c/Resources/Unique%20Titles%20code.png)
+![Unique Titles query](https://github.com/swlim314/Pewlett_Hackard_Analysis_Week_7/blob/b73c3a1797bde5d62a056599ce68ea827794bb0c/Resources/Unique%20Titles%20code.png)
+
 I was able to match each of the employees with their unique title. This required making sure to match the employee number with their
 most senior ranking position on file. The output looked as follows:
 
@@ -30,8 +31,23 @@ personnel. There were more than double the amount of Senior Engineers (29,414) a
 ![Retiring Titles](https://github.com/swlim314/Pewlett_Hackard_Analysis_Week_7/blob/efad847ab81f98ed07a2730a00e078138b2bf113/Resources/Retiring%20Titles.jpg)
 
 
-The code required to show this output was:
+The query required to show this output was:
 
-**Retiring Titles Code**
+**Retiring Titles Query**
 
 ![Retiring Titles code](https://github.com/swlim314/Pewlett_Hackard_Analysis_Week_7/blob/9bb1c03934a338b3b915ad2609677e0b8ec1ca2a/Resources/Retiring%20Titles%20code.png)
+
+- Another major finding based off the retiring titles table is that there are only 2 Managers retiring at this time. This seems like an
+extremely low number considering the 60,000+ Senior Engineers and Staff that are retiring at this time.
+-Looking at the Mentorship Eligibility table, it appears as there are only 1549 available staff members that are able to provided
+mentorship roles in the company. The images below show the query that was used to output the requisite mentorship table, as well as the
+first 15 rows in that table, and last 15 rows.
+
+**Mentorship Eligibility Query**
+![Mentorship Eligibility code](https://github.com/swlim314/Pewlett_Hackard_Analysis_Week_7/blob/0720697415c6f27b96bd4c911683903c6ead5c25/Resources/Mentorship%20Eligibility%20code.png)
+
+**Mentorship Eligibility**
+![Mentorship Eligibility](https://github.com/swlim314/Pewlett_Hackard_Analysis_Week_7/blob/0720697415c6f27b96bd4c911683903c6ead5c25/Resources/Mentorship%20Eligibility.png)
+
+**Mentorship Eligibility Last**
+![Mentorship Eligibility last](https://github.com/swlim314/Pewlett_Hackard_Analysis_Week_7/blob/7cbf62584eeec2f7022ff3cb3a0c8521424ced62/Resources/Mentorship%20Eligibility%20last.png)
